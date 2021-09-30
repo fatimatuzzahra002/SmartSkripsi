@@ -5,10 +5,10 @@
       <map>
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/drawable/rounded.xml" value="0.2203125" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/drawable/rounded2.xml" value="0.2203125" />
-        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_beranda.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_beranda.xml" value="0.25" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_list_day.xml" value="0.2006340579710145" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_to_do_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SMARTSKRIPSI/app/src/main/res/layout/activity_to_do_list.xml" value="0.25" />
       </map>
     </option>
   </component>
