@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMARTSKRIPSI">
         <activity
+            android:name=".ListDay"
+            android:exported="true" />
+        <activity
+            android:name=".ToDoList"
+            android:exported="true" />
+        <activity
             android:name=".Beranda"
             android:exported="true" />
         <activity
